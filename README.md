@@ -2,7 +2,7 @@
 a Maya controller manager
 
 ### Usage
-1. Place the `conLibrary/` under the Maya `script/` folder
+1. Place both `conLibrary/`, and `Qt.py` into the Maya `script/` folder
 2. Run below code to generate the UI
   ```python
   from conLibrary import libraryUI
